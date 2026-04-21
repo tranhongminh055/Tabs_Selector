@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App colors for header selection -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="header_unselected_bg">#00FFFFFF</color>
+    <color name="header_unselected_text">#FF000000</color>
+</resources>

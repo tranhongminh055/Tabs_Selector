@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tab_selector</string>
+    <string name="name_hint">Name</string>
+    <string name="add_desc">Thêm</string>
+    <string name="phep_cong">phep cong</string>
+    <string name="lich_su">lich su</string>
+    <string name="tab_layout_desc">Tabs</string>
+
+    <!-- Added strings for hints and default result -->
+    <string name="hint_a">Nhập A</string>
+    <string name="hint_b">Nhập B</string>
+    <string name="result_zero">0</string>
+</resources>
